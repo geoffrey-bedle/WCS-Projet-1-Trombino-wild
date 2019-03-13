@@ -10,14 +10,7 @@
 
 <body>
 
-    <header class="topbar">
-        <a href="https://wildcodeschool.fr/" target="_blank"><img src="img/wcs_logo_pink_background_400x220.png" alt="logo_wcs"></a>
-        <nav>
-            <a href="home.html">Home</a>
-            <a href="trombino.html">Trombino</a>
-            <a href="contact.html">Contact</a>
-        </nav>
-    </header>
+<?php include 'includes/_header.php'; ?>
   <div class="main-page">
   	<h1>Emmanuel Plumas</h1>
 
@@ -54,14 +47,6 @@
 	</div>
 
 </div>
-     <footer>
-
-        <p><a href="https://wildcodeschool.fr/" target="_blank"><img src="img/wcs_logo_pink_background_400x220.png" alt="logo_wcs"></a></p>
-
-        <p><a href="contact.html">CONTACT</a>
-            - <a href="#">MENTION LEGALES</a>
-            - Tous droits réservés ©COPYRIGHT Bertrand Geoffrey Malika - 2019</p>
-
-    </footer>
+<?php include 'includes/_footer.php'; ?>
 </body>
 </html>
