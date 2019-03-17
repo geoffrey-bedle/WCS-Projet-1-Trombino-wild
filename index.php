@@ -47,7 +47,7 @@ include 'includes/_header.php'; ?>
         </section>
     </div>
 
-<?php include 'includes/_footer.php'; ?>
+<?php include 'includes/_footer.php';  //permet de retrouver le footer qui est dans includes?>
 
 </body>
 

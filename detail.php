@@ -11,7 +11,7 @@
      <header class="topbar">
         <a href="https://wildcodeschool.fr/" target="_blank"><img src="img/wcs_logo_pink_background_400x220.png" alt="logo_wcs"></a>
         <nav>
-            <a href="home.php">Home</a>
+            <a href="index.php">Home</a>
             <a href="trombino.php">Trombino</a>
             <a href="contact.php">Contact</a>
         </nav>
@@ -19,7 +19,7 @@
 
 
 <div class="main-page">
-	<h1>Bédlé Geoffrey</h1>
+	<h1>Geoffrey Bédlé</h1>
 
 	<div class="bloc-image-detail"><img src="https://i.postimg.cc/qR22tMHn/geoffrey.jpg" alt="Geoffrey"></div>
 	<h2>BIOGRAPHIE</h2>
