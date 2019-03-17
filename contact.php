@@ -10,17 +10,9 @@
   </head>
 
 
-
 <body>
 
-    <header class="topbar">
-        <a href="https://wildcodeschool.fr/" target="_blank"><img src="img/wcs_logo_pink_background_400x220.png" alt="logo_wcs"></a>
-        <nav>
-            <a href="home.html">Home</a>
-            <a href="trombino.html">Trombino</a>
-            <a href="contact.html" class="active">Contact</a>
-        </nav>
-    </header>
+<?php include 'includes/_header.php'; ?>
 
 
     <section class="formulaire main-page">
@@ -55,14 +47,7 @@
 
     </section>
 
-    <footer>
 
-        <p><a href="https://wildcodeschool.fr/" target="_blank"><img src="img/wcs_logo_pink_background_400x220.png" alt="logo_wcs"></a></p>
-            <p><a href="contact.html">CONTACT</a>
-            - <a href="#">MENTION LEGALES</a>
-            - Tous droits réservés ©COPYRIGHT Bertrand Geoffrey Malika - 2019</p>
-
-    </footer>
 
   </body>
 
