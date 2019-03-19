@@ -322,6 +322,9 @@ button:hover{
   margin-left: 0;
 }
 
+.error{
+    color: red;
+}
 /* -----------------------------PAGE DETAILS--------------------------------- */
 
 
@@ -361,6 +364,8 @@ button:hover{
 .bloc-liste li {
   font-family: 'Montserrat', sans-serif;
 }
+
+
 
 /* -----------------------------MEDIA QUERIES--------------------------------- */
 

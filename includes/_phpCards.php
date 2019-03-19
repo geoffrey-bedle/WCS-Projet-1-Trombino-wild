@@ -51,7 +51,7 @@ while ($data=fgetcsv($csvFile)){
 
        ?>
        <div class="espace">
-           <a href="detail.php">
+           <a href="detail.php?firstName=<?php echo $data[0];?>">
                <div class="trombi">
                    <img src="https://i.postimg.cc/qR22tMHn/geoffrey.jpg" alt="Geoffrey">
                    <div class="textebloc">

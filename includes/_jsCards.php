@@ -3,13 +3,13 @@
 <?php
 $csvFile=fopen('equipes.csv', 'r');
 
-while ($data=fgetcsv($csvFile)){
+while ($data=fgetcsv($csvFile)) {
 
-    if ($data[3]=='JS') {
+    if ($data[3] == 'JS') {
 
         ?>
         <div class="espace">
-            <a href="detail.php">
+            <a href="detail.php?firstName=<?php echo $data[0];?>">
                 <div class="trombi">
                     <img src="https://i.postimg.cc/qR22tMHn/geoffrey.jpg" alt="Geoffrey">
                     <div class="textebloc">
@@ -25,3 +25,4 @@ while ($data=fgetcsv($csvFile)){
     }
 
 }
+
