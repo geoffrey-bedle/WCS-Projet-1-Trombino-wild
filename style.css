@@ -173,14 +173,14 @@ footer a:hover {
 
 /*-------------- GENERAL -------------*/
 h1{
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Montserrat', cursive;
   color: #292736;
   font-size: 3em;
   text-align: center;
 }
 
 h2{
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Montserrat', cursive;
   color: #292736;
   font-size: 1.5em;
   padding-left: 8%;
@@ -220,6 +220,10 @@ p{
 .trombi:hover .textebloc > p{
   color: #FFFFFF;
 }
+.trombi img.phototrombi{
+  width: 250px;
+    height: 250px;
+}
 
 .textebloc {
 	display: flex;
@@ -254,12 +258,16 @@ p{
     color: #fff;
     border-radius: 10px;
     background-color: #292736;
+    cursor: pointer;
 }
 
 .bouton-trombi:hover {
     background-color: #4ecdc4;
 }
-
+.phototrombi img{
+    width: 50px;
+    height: 50px;
+}
 /*-------------------------------------------------------- PAGE CONTACT ---------------------------------------------------------------------*/
 .formulaire{
     width: 85%;
@@ -304,6 +312,7 @@ button{
   color: #FFF;
   border-radius: 10px;
   background-color: #292736;
+    cursor: pointer;
 }
 
 .bloc-bouton a:hover {
@@ -336,6 +345,11 @@ button:hover{
 	display: flex;
 	justify-content: center;
 	margin: 50px;
+}
+
+.bloc-image-detail img{
+    width: 250px;
+    height: 250px;
 }
 
 
