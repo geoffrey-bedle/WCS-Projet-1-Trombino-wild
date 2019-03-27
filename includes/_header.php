@@ -5,6 +5,7 @@
             <a href="index.php"<?php if(strstr($_SERVER["REQUEST_URI"],'index.php')){ echo "class='active'";};?>>Home</a>
             <a href="trombino.php"<?php if(strstr($_SERVER["REQUEST_URI"],'trombino.php')){ echo "class='active'";};?>>Trombino</a>
             <a href="contact.php"<?php if(strstr($_SERVER["REQUEST_URI"],'contact.php')){ echo "class='active'";};?>>Contact</a>
+            <?php if(strstr($_SERVER["REQUEST_URI"],'trombino.php')){ echo '<a href="admin.php">+</a>';};?>
         </nav>
     </header>
 

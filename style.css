@@ -275,7 +275,7 @@ p{
 }
 
 .form-contact{
-  margin-bottom: 15px;
+  padding-bottom: 40px;
 }
 .form-contact > div{
   display: flex;
@@ -301,7 +301,7 @@ p{
   height: 300px;
   font-family: 'Montserrat', sans-serif;
   font-size: 0.8em;
-  margin-bottom: 15px;
+  margin-bottom:
 }
 
 button{
@@ -313,6 +313,8 @@ button{
   border-radius: 10px;
   background-color: #292736;
     cursor: pointer;
+    margin-top: 25px;
+
 }
 
 .bloc-bouton a:hover {
@@ -474,3 +476,10 @@ button:hover{
     }
    
     }
+/* -----------------------------PAGE ADMIN--------------------------------- */
+
+.formAdmin {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
