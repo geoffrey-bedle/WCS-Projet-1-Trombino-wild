@@ -15,7 +15,7 @@ Le site devait présenter:
 * Une page affichant les photos de tous les Wilders
 * Une page "détail" présentant plus précisément le Wilder sélectionné
 * Une page de contact
-* Un entête et un pied de pages commun à toutes les pages.
+* Un entête et un pied de page commun à toutes les pages.
 
 ***
 ### Puis de manière individuelle:
