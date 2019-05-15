@@ -9,7 +9,7 @@ de la Wild Code School sur 1 semaine.
 ***
 ### Notre équipe était composée de 3 membres.
 
-Le site devait présenté:
+Le site devait présenter:
 
 * Une page d'accueil
 * Une page affichant les photos de tous les Wilders
