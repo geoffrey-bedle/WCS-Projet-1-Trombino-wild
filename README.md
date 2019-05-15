@@ -1,6 +1,6 @@
 # Trombino-wild
 
-## Premier projet rélisé en équipe à la wild code school
+## Premier projet réalisé en équipe à la wild code school
 
 Objectifs:
 
